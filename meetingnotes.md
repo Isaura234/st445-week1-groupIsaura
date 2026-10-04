@@ -1,2 +1,3 @@
-#Group meeting notes
-Meeting day: to be agreed 
+\#Group meeting notes
+Meeting day: Thursday
+
