@@ -1,2 +1,5 @@
-#Group meeting notes
-Meeting day: Tuesday
+<<<<<<< HEAD
+\#Group meeting notes
+
+Meeting day: Thursday
+
